@@ -3,18 +3,18 @@ Assesment Round Coding Assignments
 
 # Complexities:
 
-#   Assignment 1:
+   Assignment 1:
 
-#       Time complexity: 
+       Time complexity: 
             O(N^2)
-#       Space complexity: 
+       Space complexity: 
             O(2N)
 
-#   Asignment 2:
+   Asignment 2:
     Complexities are of Timsort's, which is the algorithm at the back of Python's sort method
-#       Time complexity: 
+       Time complexity: 
             O(Nlog(N))
-#       Space complexity: 
+       Space complexity: 
             O(N)
 
 
