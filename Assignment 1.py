@@ -1,6 +1,5 @@
-# Time complexity: O(Nlog(N))
+# Time complexity: O(N^2)
 # Space complexity: O(N)
-# Complexities here are of Timsort's, which is at the algorithm back of Python's sort method
 
 class Student(object):
     def __init__(self, name, age, marks, rollNumber):
