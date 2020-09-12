@@ -10,7 +10,7 @@ Backend (python)
        Time complexity: 
             O(N^2)
        Space complexity: 
-            O(2N)
+            O(N)
 
    Asignment 2:
    
